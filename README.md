@@ -1,5 +1,6 @@
-# Paper and Code for Machine Learning Based Wireless Communication optimization Problems
-A collection of Paper/code for Machine Learning Based Wireless Communication optimization Problems
+# Paper and Code for Machine Learning Based Wireless Communication Optimization Problems
+
+This is a collection of Paper/Code for Wireless Communication Optimization Problems solved with machine learning based algorithms.
 
 | Paper  | Code |
 | ------------- | ------------- |
