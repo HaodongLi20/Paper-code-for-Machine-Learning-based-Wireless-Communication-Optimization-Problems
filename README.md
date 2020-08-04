@@ -1,5 +1,5 @@
 # Paper and Code for Machine Learning Based Wireless Communication optimization Problems
-A collection of Paper/code for Wireless Communication Optimization Problems with PyTorch based DL
+A collection of Paper/code for Machine Learning Based Wireless Communication optimization Problems
 
 | Paper  | Code |
 | ------------- | ------------- |
