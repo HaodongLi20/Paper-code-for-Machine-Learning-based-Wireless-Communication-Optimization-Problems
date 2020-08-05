@@ -10,6 +10,7 @@ This is a collection of Paper/Code for Wireless Communication Optimization Probl
 |[A Machine Learning Approach for Power Allocation in HetNets Considering QoS](https://arxiv.org/pdf/1803.06760.pdf)|[proximity (MATLAB)](https://github.com/roamiri/proximity.git)|
 |[A Deep Q-Learning Method for Downlink Power Allocation in Multi-Cell Networks](https://arxiv.org/pdf/1904.13032.pdf)| [dql_main (TF)](https://github.com/ishfaq06/Deep-Q-Learning-based-Downlink-Power-Allocation.git)|
 |[Deep Learning Assisted CSI Estimation for Joint URLLC and eMBB Resource Allocation](https://www.researchgate.net/publication/339676671_Deep_Learning_Assisted_CSI_Estimation_for_Joint_URLLC_and_eMBB_Resource_Allocation)|[CSI_Estimation_in_5G_Technology_Using_Depp_Learning (TF)](https://github.com/dv-123/CSI_Estimation_in_5G_Technology_Using_Depp_Learning.git)|
+|[Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks](https://arxiv.org/pdf/2007.09511.pdf)|[Federated2Fog (TF)](https://github.com/shams-am/Federated2Fog.git)|
 
 
 # List of Code w/o Papers
