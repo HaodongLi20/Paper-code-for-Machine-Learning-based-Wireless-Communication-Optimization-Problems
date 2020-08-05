@@ -2,7 +2,7 @@
 This is a collection of Paper/Code for Wireless Communication Optimization Problems solved with machine learning based algorithms.
 - Any contribution/star/fork is appreciated.
 - Looking for PyTorch based paper/code in particular.
-
+# List of Papers with Code 
 | Paper  | Code |
 | ------------- | ------------- |
 | [Deep Reinforcement Learning Based Dynamic Resource Allocation in 5G Ultra-Dense Networks](https://ieeexplore.ieee.org/document/8896609)  | [drl-cran-release1 (TF)](https://github.com/AFNANAMIN/Resource-Allocation-using-deeprl.git)  |
@@ -10,5 +10,7 @@ This is a collection of Paper/Code for Wireless Communication Optimization Probl
 |[A Deep Q-Learning Method for Downlink Power Allocation in Multi-Cell Networks](https://arxiv.org/pdf/1904.13032.pdf)| [dql_main (TF)](https://github.com/ishfaq06/Deep-Q-Learning-based-Downlink-Power-Allocation.git)|
 
 
-
-
+# List of Code without Papers
+|Code|
+|------|
+|[RL-for-binary-computation-offloading-in-wireless-powered-MEC-networks (TF)](https://github.com/jordan8409212/RL-for-binary-computation-offloading-in-wireless-powered-MEC-networks.git)|
