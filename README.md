@@ -5,9 +5,9 @@ This is a collection of Paper/Code for Wireless Communication Optimization Probl
 
 | Paper  | Code |
 | ------------- | ------------- |
-| [Deep Reinforcement Learning Based Dynamic Resource Allocation in 5G Ultra-Dense Networks](https://ieeexplore.ieee.org/document/8896609)  | [drl-cran-release1](https://github.com/AFNANAMIN/Resource-Allocation-using-deeprl.git)  |
+| [Deep Reinforcement Learning Based Dynamic Resource Allocation in 5G Ultra-Dense Networks](https://ieeexplore.ieee.org/document/8896609)  | [drl-cran-release1 (TF)](https://github.com/AFNANAMIN/Resource-Allocation-using-deeprl.git)  |
 |[A Machine Learning Approach for Power Allocation in HetNets Considering QoS](https://arxiv.org/pdf/1803.06760.pdf)|[proximity (MATLAB code)](https://github.com/roamiri/proximity.git)|
-|[A Deep Q-Learning Method for Downlink Power Allocation in Multi-Cell Networks](https://arxiv.org/pdf/1904.13032.pdf)| [dql_main](https://github.com/ishfaq06/Deep-Q-Learning-based-Downlink-Power-Allocation.git)|
+|[A Deep Q-Learning Method for Downlink Power Allocation in Multi-Cell Networks](https://arxiv.org/pdf/1904.13032.pdf)| [dql_main (TF)](https://github.com/ishfaq06/Deep-Q-Learning-based-Downlink-Power-Allocation.git)|
 
 
 
