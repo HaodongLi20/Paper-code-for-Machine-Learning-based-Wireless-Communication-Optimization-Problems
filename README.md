@@ -2,6 +2,7 @@
 This is a collection of Paper/Code for Wireless Communication Optimization Problems solved with machine learning based algorithms.
 - Any contribution/star/fork is appreciated.
 - Looking for PyTorch based paper/code in particular.
+- TF=TensorFlow; PT=PyTorch
 # List of Papers with Code 
 | Paper  | Code |
 | ------------- | ------------- |
@@ -14,3 +15,4 @@ This is a collection of Paper/Code for Wireless Communication Optimization Probl
 |Code|
 |------|
 |[RL-for-binary-computation-offloading-in-wireless-powered-MEC-networks (TF)](https://github.com/jordan8409212/RL-for-binary-computation-offloading-in-wireless-powered-MEC-networks.git)|
+|[Applications of Deep Learning in Resource Allocation in Wireless Networks (PT)(https://github.com/staschistyakov/deep_learning_wireless_networks.git)]|
