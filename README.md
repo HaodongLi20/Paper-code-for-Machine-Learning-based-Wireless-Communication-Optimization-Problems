@@ -1,7 +1,7 @@
 # Paper and Code for Machine Learning Based Wireless Communication Optimization Problems
 This is a collection of Paper/Code for Wireless Communication Optimization Problems solved with machine learning based algorithms.
 - Any contribution/star/fork is appreciated.
-- Mainly focus on resource allication and channel assignment
+- Mainly focus on resource allocation and channel assignment
 - Looking for PyTorch based paper/code in particular.
 - TF=TensorFlow; PT=PyTorch
 # List of Papers with Code 
