@@ -10,7 +10,7 @@ This is a collection of Paper/Code for Wireless Communication Optimization Probl
 |[A Deep Q-Learning Method for Downlink Power Allocation in Multi-Cell Networks](https://arxiv.org/pdf/1904.13032.pdf)| [dql_main (TF)](https://github.com/ishfaq06/Deep-Q-Learning-based-Downlink-Power-Allocation.git)|
 
 
-# List of Code without Papers
+# List of Code w/o Papers
 |Code|
 |------|
 |[RL-for-binary-computation-offloading-in-wireless-powered-MEC-networks (TF)](https://github.com/jordan8409212/RL-for-binary-computation-offloading-in-wireless-powered-MEC-networks.git)|
