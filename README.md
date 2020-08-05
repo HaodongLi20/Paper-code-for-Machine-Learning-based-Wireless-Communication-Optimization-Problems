@@ -13,7 +13,7 @@ This is a collection of Paper/Code for Wireless Communication Optimization Probl
 |[Deep Learning Assisted CSI Estimation for Joint URLLC and eMBB Resource Allocation](https://www.researchgate.net/publication/339676671_Deep_Learning_Assisted_CSI_Estimation_for_Joint_URLLC_and_eMBB_Resource_Allocation)|[CSI_Estimation_in_5G_Technology_Using_Depp_Learning (TF)](https://github.com/dv-123/CSI_Estimation_in_5G_Technology_Using_Depp_Learning.git)|
 |[Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks](https://arxiv.org/pdf/2007.09511.pdf)|[Federated2Fog (TF)](https://github.com/shams-sam/Federated2Fog.git )|
 |[Deep Reinforcement Learning for Online Computation Offloading in Wireless Powered Mobile-Edge Computing Networks](https://ieeexplore.ieee.org/document/8771176)|[DROO (TF/PT)](https://github.com/revenol/DROO.git)|
-
+|[Intelligent Resource Allocation in Wireless Communications Systems](https://github.com/seotaijiya/IRAWCS/blob/master/Additional_doc_formulation_2.pdf)|[IRAWCS (TF)](https://github.com/seotaijiya/IRAWCS.git)|
 
 # List of Code w/o Papers
 |Code|
