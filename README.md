@@ -14,7 +14,7 @@ This is a collection of Paper/Code for Wireless Communication Optimization Probl
 |[Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks](https://arxiv.org/pdf/2007.09511.pdf)|[Federated2Fog (TF)](https://github.com/shams-sam/Federated2Fog.git )|
 |[Deep Reinforcement Learning for Online Computation Offloading in Wireless Powered Mobile-Edge Computing Networks](https://ieeexplore.ieee.org/document/8771176)|[DROO (TF/PT)](https://github.com/revenol/DROO.git)|
 |[Intelligent Resource Allocation in Wireless Communications Systems](https://github.com/seotaijiya/IRAWCS/blob/master/Additional_doc_formulation_2.pdf)|[IRAWCS (TF)](https://github.com/seotaijiya/IRAWCS.git)|
-
+|[Deep Reinforcement Learning Based Resource Allocation for V2V Communications](https://ieeexplore.ieee.org/document/8633948)|[Double-Deep-Q-Learning-for-Resource-Allocation (TF)](https://github.com/Engineer1999/Double-Deep-Q-Learning-for-Resource-Allocation.git)|
 # List of Code w/o Papers
 |Code|
 |------|
