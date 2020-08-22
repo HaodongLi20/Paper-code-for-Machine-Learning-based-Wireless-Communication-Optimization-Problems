@@ -16,6 +16,7 @@ This is a collection of Paper/Code for Wireless Communication Optimization Probl
 |[Intelligent Resource Allocation in Wireless Communications Systems](https://github.com/seotaijiya/IRAWCS/blob/master/Additional_doc_formulation_2.pdf)|[IRAWCS (TF)](https://github.com/seotaijiya/IRAWCS.git)|
 |[Deep Reinforcement Learning Based Resource Allocation for V2V Communications](https://ieeexplore.ieee.org/document/8633948)|[Double-Deep-Q-Learning-for-Resource-Allocation (TF)](https://github.com/Engineer1999/Double-Deep-Q-Learning-for-Resource-Allocation.git)|
 |[Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/pdf/1602.05629.pdf)|[Federated-Learning (PT)](https://github.com/AshwinRJ/Federated-Learning-PyTorch.git)|
+|[Deep Actor-Critic Learning for Distributed Power Control in Wireless Mobile Networks](https://arxiv.org/pdf/1808.00490v1.pdf)|[Power-Control-asilomar (TF)](https://github.com/sinannasir/Power-Control-asilomar.git)|
 # List of Code w/o Papers
 |Code|
 |------|
